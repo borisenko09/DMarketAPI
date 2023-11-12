@@ -35,4 +35,4 @@ user_balance = dmarket.get_user_balance()
 print(user_balance)
 
 # Лицензия
-GNU License
+GPL-3.0 license
