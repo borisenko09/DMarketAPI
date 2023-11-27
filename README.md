@@ -3,7 +3,7 @@
 
 ## Установка
 1. Клонируйте репозиторий с GitHub:
-   ```git clone https://github.com/borisenko09/dmarket_py```
+   ```git clone https://github.com/borisenko09/DMarketAPI```
 3. Установите необходимые зависимости: ```pip install pynacl```
 ## Начало работы
 Для использования библиотеки импортируйте `DMarketAPI` и создайте экземпляр с вашими ключами доступа:
